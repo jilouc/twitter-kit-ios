@@ -110,3 +110,5 @@
 
 "tw__view_is_sponsored_ad" = "Ceci est une annonce sponsorisée";
 
+"tw__share_tweet_generic_template_format" = "Regarde le Tweet de @%1$@\ : %2$@";
+
